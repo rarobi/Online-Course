@@ -1,0 +1,1 @@
+<?php echo $content; ?><?php /**PATH /home/crbangla1234/laravel/resources/views/email/content.blade.php ENDPATH**/ ?>
